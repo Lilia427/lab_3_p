@@ -1,0 +1,3 @@
+pyfiglet==0.8.post1
+art==5.8
+colorama==0.4.6
